@@ -1,7 +1,7 @@
 # PhytoID - Rede Inteligente de Análise Fitoplanctônica
 Kickoff Meeting: https://tldv.io/app/meetings/673237da770b470014d12266/
 
-Sistema Web colaborativo para identificação automatizada de fitoplâncton através de imagens microscópicas, utilizando machine learning e análise de metadados ambientais.
+Sistema Web colaborativo para identificação automatizada de fitoplânctons através de imagens microscópicas, utilizando machine learning e análise de metadados ambientais.
 
 ### Contexto
 O PhytoID é uma solução para automatizar e otimizar o processo de identificação de fitoplâncton, criando uma base de dados global para análise da qualidade da água. O sistema permite que taxonomistas, laboratórios e consultores ambientais colaborem e compartilhem conhecimento.
