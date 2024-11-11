@@ -1,10 +1,10 @@
 # Colabio - Rede Inteligente de Análise Fitoplanctônica
 Sistema Web colaborativo para identificação automatizada de fitoplânctons através de imagens microscópicas, utilizando machine learning e análise de metadados ambientais.
 
-**Período**: Novembro, Dezembro e Janeiro
-**Início**: 04/11/24
-**Entrega final**: 07/02/25
-**Main Stakeholder**: Otávio Heringer (https://www.linkedin.com/in/ot%C3%A1vio-heringer/)
+**Período**: Novembro, Dezembro e Janeiro  
+**Início**: 04/11/24  
+**Entrega final**: 07/02/25  
+**Main Stakeholder**: Otávio Heringer (https://www.linkedin.com/in/ot%C3%A1vio-heringer/)  
 **Kickoff Meeting**: https://tldv.io/app/meetings/673237da770b470014d12266/
 
 ### Contexto
