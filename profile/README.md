@@ -39,7 +39,7 @@ O Colabio é uma solução para automatizar e otimizar o processo de identifica�
 
 ### Backend
 - Python
-- FastAPI
+- Django
 - JWT Authentication
 
 ### Cloud
