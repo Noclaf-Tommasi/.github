@@ -51,7 +51,7 @@ O Colabio é uma solução para automatizar e otimizar o processo de identifica�
 ## Arquitetura
 
 ### Componentes Principais
-- **Web Interface**: Aplicação Vue.js para interação com usuários
+- **Web Interface**: Aplicação Angular para interação com usuários
 - **API REST**: Backend Python para processamento e orquestração
 - **ML Service**: Integração com Google Vertex AI
 - **Data Store**: Sistema de armazenamento distribuído
