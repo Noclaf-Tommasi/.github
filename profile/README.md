@@ -33,8 +33,8 @@ O Colabio é uma solução para automatizar e otimizar o processo de identifica�
 ## Tecnologias
 
 ### Frontend
-- Vue.js
-- Vuetify CSS
+- Angular
+- Tailwind
 - TypeScript
 
 ### Backend
