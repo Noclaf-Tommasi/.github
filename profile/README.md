@@ -6,6 +6,7 @@ Sistema Web colaborativo para identificação automatizada de fitoplânctons atr
 **Entrega final**: 07/02/25  
 **Main Stakeholder**: Otávio Heringer (https://www.linkedin.com/in/ot%C3%A1vio-heringer/)  
 **Kickoff Meeting**: https://tldv.io/app/meetings/673237da770b470014d12266/
+**Design**: https://www.figma.com/design/hctvBYwe8XGsyHzwT7QSxY/Tommasi?node-id=1-2&t=zhqFsRF8JbqirdIJ-1
 
 ### Contexto
 O Colabio é uma solução para automatizar e otimizar o processo de identificação de fitoplâncton, criando uma base de dados global para análise da qualidade da água. O sistema permite que taxonomistas, laboratórios e consultores ambientais colaborem e compartilhem conhecimento.
