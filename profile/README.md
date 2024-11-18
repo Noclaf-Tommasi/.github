@@ -5,7 +5,7 @@ Sistema Web colaborativo para identificação automatizada de fitoplânctons atr
 **Início**: 04/11/24  
 **Entrega final**: 07/02/25  
 **Main Stakeholder**: Otávio Heringer (https://www.linkedin.com/in/ot%C3%A1vio-heringer/)  
-**Kickoff Meeting**: https://tldv.io/app/meetings/673237da770b470014d12266/
+**Kickoff Meeting**: https://tldv.io/app/meetings/673237da770b470014d12266/  
 **Design**: https://www.figma.com/design/hctvBYwe8XGsyHzwT7QSxY/Tommasi?node-id=1-2&t=zhqFsRF8JbqirdIJ-1
 
 ### Contexto
