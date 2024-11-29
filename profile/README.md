@@ -26,6 +26,7 @@ O Colabio é uma solução para automatizar e otimizar o processo de identifica�
 
 ### Sistemas Semelhantes
 
+- [AlgaeBase](https://www.algaebase.org/)
 - [plankton net](https://planktonnet.awi.de/)
 - [NMFS-COPEPOD: The Global Plankton Database, WEBSEC Sub-Collection](https://obis.org/dataset/5cfef543-d293-45b8-b656-c3628ff34b7c)
 - [AODN Open Access to Ocean Data](https://portal.aodn.org.au/search)
